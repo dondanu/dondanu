@@ -29,7 +29,7 @@ I believe in steady progress and see every challenge as a chance to grow profess
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/php-333333?style=flat&logo=php&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  
+
 
 - 📦 &nbsp;
   ![Laravel](https://img.shields.io/badge/laravel-333333?style=flat&logo=laravel&logoColor=white) 
