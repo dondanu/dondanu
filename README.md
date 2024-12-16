@@ -63,7 +63,6 @@ I believe in steady progress and see every challenge as a chance to grow profess
 
 - 💡 &nbsp;
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=white) 
-
 <br/>
 
 # 📊GitHub Stats :
