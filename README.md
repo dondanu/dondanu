@@ -78,4 +78,13 @@ I believe in steady progress and see every challenge as a chance to grow profess
 
 ![](https://visitcount.itsvg.in/api?id=dondanu&icon=0&color=0)
 
+<h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<p align="left">
+<a href="https://linkedin.com/in/danu1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Danusan Kuganesan" height="30" width="40" /></a>
+
+
+</p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dondanu&label=Profile%20views&color=0e75b6&style=flat" alt="dondanu" /> </p>
