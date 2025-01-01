@@ -76,7 +76,7 @@ I believe in steady progress and see every challenge as a chance to grow profess
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=dondanu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![](https://visitcount.itsvg.in/api?id=dondanu&icon=0&color=0)
+
 
 <h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
 
