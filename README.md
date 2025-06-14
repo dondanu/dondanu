@@ -2,11 +2,14 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying BICT at South Eastern University of Sri Lanka.
+
+- 🎓 &nbsp; I am an undergraduate BICT student at South Eastern University of SriLanka
+- 🌱 &nbsp; I’m interested in  **Mobile App Development, Web Application, Full Stack development, DevOps, IoT🌟**
 - 💼 &nbsp; Working as a FullStack Developer | Innovating Scalable Web Solutions 🌟
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design, Data Structures, and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing, and playing games as hobbies/side hustles.
+
+- 📫 &nbsp; How to reach me **danusan.official@gmail.com**
+<br>
 
 🚀 Philosophy
 I believe in steady progress and see every challenge a chance to grow professionally and personally. My journey is defined by resilience, innovation, and the pursuit of excellence.
@@ -75,16 +78,6 @@ I believe in steady progress and see every challenge a chance to grow profession
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=dondanu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-<h3 align="left"> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/danu1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Danusan Kuganesan" height="30" width="40" /></a>
-
-
-</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dondanu&label=Profile%20views&color=0e75b6&style=flat" alt="dondanu" /> </p>
